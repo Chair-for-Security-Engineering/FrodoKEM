@@ -1,0 +1,12 @@
+Folders contain the C-sources, generated VHDL files, and testbenches to test both.
+In the testbenches, the path to the test values file has to be updated.
+
+Frodo: HLS files for the entire FrodoKEM scheme
+
+Gaussian Sampler: Discrete Gaussian Sampler from FrodoKEM
+
+NTT: NTT from NewHope
+
+Polynomial Multiplication: Polynomial Multiplication from NTRU
+
+SHAKE: Hash function
